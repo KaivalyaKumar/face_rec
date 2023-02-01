@@ -1,1 +1,1 @@
-# face_rec
+# Smart-home-using-face-recognixation
